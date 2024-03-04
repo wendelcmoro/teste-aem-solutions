@@ -14,7 +14,7 @@ No arquivo **db_conn.php**, contém as credenciais para o banco de dados, o proj
 
 ## 1.3 Executando projeto
 
-Para executar projeto localmente basta executar o seguinte comando:
+Para testar o projeto localmente, execute o seguinte comando em um terminal:
 
 ```console
 php -S 127.0.0.1:8000
