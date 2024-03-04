@@ -7,6 +7,7 @@ Teste técnico A&M Solutions
 ## 1.1 Requisitos
 
 - PHP 8.2.16(possivelmente outras versões devem funcionar também)
+- MariaDB 10.5.23(Versão do SGDB utilizado no desenvolvimento do projeto)
 
 ## 1.2 Configurando ambiente local
 
