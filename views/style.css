@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.vendedores-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 800px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.clientes-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    height: 800px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.marcas-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 800px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.veiculos-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    height: 800px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.vendas-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    height: 800px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.grid-title {
+    font-weight: bold;
+    background-color: gold;
+}
